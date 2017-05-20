@@ -1,0 +1,10 @@
+.mainImage{
+	border:1px solid red;
+	height: 500px;
+	width: 100%;
+}
+.subImage1 ,.subImage2,.subImage3,.subImage4{
+	border:1px solid green;
+	height: 110px;
+	width: 100%;
+}
