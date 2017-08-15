@@ -1,0 +1,4 @@
+to show password of connected networks in windows 10 
+
+>netsh wlan show profiles
+netsh wlan show profile name="ssid_name" key=clear                #####for individual network and you have to speciy ssid in name field
